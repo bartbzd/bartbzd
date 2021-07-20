@@ -13,11 +13,9 @@ Self learning front end development to get comfortable with building websites, l
 - Building projects to fill portfolio.
    - My Website (Coming Soon)
 <br>
-<br>
 
 ### **What's Next**
 - CS50 - Introduction to Computer Science
-<br>
 <br>
 
 ### **Toolkit**
@@ -30,7 +28,6 @@ ___
 <!-- JavaScript -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
 </p>
-<br>
 <br>
 
 ### **Let's Connect**
