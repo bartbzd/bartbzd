@@ -1,7 +1,7 @@
 ## **Hi, I'm Bart** :wave:
 
-### **About Me** 
-Self learning front end development to get comfortable with building websites, learn new technologies and see what's possible. :us:/:poland:
+### **About Me** :us: & :poland:
+Self learning front end development to get comfortable with building websites, learn new technologies and see what's possible. 
 <br>
 
 ### **What I'm currently working on:**
