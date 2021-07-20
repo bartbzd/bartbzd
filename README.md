@@ -7,6 +7,7 @@ Self learning front end development to get comfortable with building websites, l
 ### **What I'm currently working on:**
 - Participating in the 100 Days of Code Challenge.
    - [100 Days of Code Challenge](https://www.100daysofcode.com/)
+   - [My Log](https://github.com/bartbzd/100-days-of-code/blob/master/log.md)
 - Learning about HTML, CSS and JavaScript via The Odin Project.
    - [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - Building projects to fill portfolio.
