@@ -3,7 +3,6 @@
 ### **About Me** 
 Self learning front end development to get comfortable with building websites, learn new technologies and see what's possible. :us:/:poland:
 <br>
-<br>
 
 ### **What I'm currently working on:**
 - Participating in the 100 Days of Code Challenge.
@@ -16,7 +15,6 @@ Self learning front end development to get comfortable with building websites, l
 
 ### **What's Next**
 - CS50 - Introduction to Computer Science
-<br>
 
 ### **Toolkit**
 ___
@@ -28,7 +26,6 @@ ___
 <!-- JavaScript -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> -->
 </p>
-<br>
 
 ### **Let's Connect**
 ___
