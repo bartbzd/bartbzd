@@ -11,7 +11,6 @@ Self learning front end development to get comfortable with building websites, l
    - [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - Building projects to fill portfolio.
    - My Website (Coming Soon)
-<br>
 
 ### **What's Next**
 - CS50 - Introduction to Computer Science
