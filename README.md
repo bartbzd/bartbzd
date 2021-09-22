@@ -5,7 +5,7 @@
 Self learning Front-End/Design to build websites, learn new technologies and see what's possible.
 <br>
 
-### **What I'm currently working on:**
+### **Currently working on:**
 
 - Participating in the 100 Days of Code Challenge.
   - [My Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
