@@ -18,8 +18,6 @@ Self learning front end development to get comfortable with building websites, l
 
 - CS50 - Introduction to Computer Science
 
-### **Toolkit**
-
 ---
 
 <div align="left">
@@ -30,8 +28,6 @@ Self learning front end development to get comfortable with building websites, l
 <!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="55px"/>
 </div>
-
-### **Let's Connect**
 
 ---
 
