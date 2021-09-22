@@ -2,7 +2,7 @@
 
 ### **About Me**
 
-Self learning front end development to get comfortable with building websites, learn new technologies and see what's possible.
+Self learning Front-End/Design to get comfortable with building websites, learn new technologies and see what's possible.
 <br>
 
 ### **What I'm currently working on:**
@@ -13,10 +13,6 @@ Self learning front end development to get comfortable with building websites, l
   - [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - Building projects to fill portfolio.
   - My Website (Coming Soon)
-
-### **What's Next**
-
-- CS50 - Introduction to Computer Science
 
 ---
 
