@@ -2,7 +2,7 @@
 
 ### **About Me**
 
-Self learning Front-End/Design to get comfortable with building websites, learn new technologies and see what's possible.
+<p align="center">Self learning Front-End/Design to get comfortable with building websites, learn new technologies and see what's possible.</p>
 <br>
 
 ### **What I'm currently working on:**
@@ -12,7 +12,7 @@ Self learning Front-End/Design to get comfortable with building websites, learn 
 - Learning about HTML, CSS and JavaScript via The Odin Project.
   - [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - Building projects to fill portfolio.
-  - My Website (Coming Soon)
+  - Website (Coming Soon)
 
 ---
 
