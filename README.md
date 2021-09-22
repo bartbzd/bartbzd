@@ -31,7 +31,7 @@ Self learning Front-End/Design to build websites, learn new technologies and see
 
 ---
 
-<div align="right">
+<div align="left">
 <!-- TWITTER -->
 <a href="https://twitter.com/bartbzd">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="40"></a>
