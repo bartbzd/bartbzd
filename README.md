@@ -31,14 +31,14 @@ Self learning Front-End/Design to build websites, learn new technologies and see
 
 ---
 
-<div align="center">
+<div align="right">
 <!-- TWITTER -->
 <a href="https://twitter.com/bartbzd">
-<img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="45"></a>
+<img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="40"></a>
 
 <!-- DISCORD -->
 <a href="https://discordapp.com/users/218802607043510282">
- <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" width="45"></a>
+ <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" width="40"></a>
  <!-- EMAIL -->
-<a href="mailto: bbart318@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" width="45"></a>
+<a href="mailto: bbart318@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" width="40"></a>
 </div>
