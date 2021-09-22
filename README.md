@@ -24,7 +24,9 @@ Self learning Front-End/Design to build websites, learn new technologies and see
 <!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="55px"/>
 </div>
-
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="55px">
+</div>
 ---
 
 <div align="center">
