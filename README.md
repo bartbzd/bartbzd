@@ -24,7 +24,7 @@ Self learning Front-End/Design to build websites, learn new technologies and see
 <!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="55px"/>
 </div>
-<div align="center" style="margin-top: 5px">
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="55px">
 <img src="https://brandeps.com/icon-download/S/Squarespace-icon-vector-01.svg" alt="squarespace" width="55px">
 </div>
