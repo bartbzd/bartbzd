@@ -20,7 +20,7 @@ Self learning front end development to get comfortable with building websites, l
 
 ---
 
-<div align="left">
+<div align="center">
 <!-- HTML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="55px"/>
 <!-- CSS -->
@@ -31,6 +31,7 @@ Self learning front end development to get comfortable with building websites, l
 
 ---
 
+<div align="center">
 <!-- TWITTER -->
 <a href="https://twitter.com/bartbzd">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="45"></a>
@@ -40,3 +41,4 @@ Self learning front end development to get comfortable with building websites, l
  <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png" width="45"></a>
  <!-- EMAIL -->
 <a href="mailto: bbart318@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" width="45"></a>
+</div>
