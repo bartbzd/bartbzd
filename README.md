@@ -2,7 +2,7 @@
 
 ### **About Me**
 
-Self learning Front-End/Design to get comfortable with building websites, learn new technologies and see what's possible.
+Self learning Front-End/Design to build websites, learn new technologies and see what's possible.
 <br>
 
 ### **What I'm currently working on:**
