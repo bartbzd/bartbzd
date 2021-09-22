@@ -24,7 +24,7 @@ Self learning front end development to get comfortable with building websites, l
 
 <!-- HTML -->
 <p align=left>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="55"/>
 <!-- CSS -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1920px-CSS3_logo.svg.png" alt="css3" width="35"/> 
 <!-- JavaScript -->
