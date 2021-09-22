@@ -42,3 +42,4 @@ Self learning Front-End/Design to build websites, learn new technologies and see
  <!-- EMAIL -->
 <a href="mailto: bbart318@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" width="45"></a>
 </div>
+<div align="center">CONTACT</div>
