@@ -26,7 +26,9 @@ Self learning Front-End/Design to build websites, learn new technologies and see
 </div>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="55px">
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/squarespace-1024.png" alt="squarespace" width="55px">
 </div>
+
 ---
 
 <div align="center">
