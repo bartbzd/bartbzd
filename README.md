@@ -1,19 +1,18 @@
 ## **Hi, I'm Bart** :wave:
 
-### **About Me**
+### **About**
 
-Self learning Front-End/Design to build websites, learn new technologies and see what's possible.
+Self learning Front-End/Design.
 <br>
 
-### **Currently working on:**
+### **Current:**
 
-- Participating in the 100 Days of Code Challenge.
-  - [My Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
-- Learning about HTML, CSS and JavaScript via The Odin Project.
-  - [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
-- Building projects to fill portfolio.
-  - Website (Coming Soon)
+- The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
+### **Archive:**
+
+- 100 Days of Code Challenge - [My Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
+- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 ---
 
 <div align="center">
@@ -31,7 +30,7 @@ Self learning Front-End/Design to build websites, learn new technologies and see
 
 ---
 
-<div align="left">
+<div align="center">
 <!-- TWITTER -->
 <a href="https://twitter.com/bartbzd">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="40"></a>
