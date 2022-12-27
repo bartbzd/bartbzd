@@ -19,9 +19,6 @@ Self learning Front-End Development and Design Principles.
 <img src="https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&color=25242A&logo=css3&logoColor=4F89F5">
 <!-- JavaScript -->
 <img src="https://img.shields.io/badge/-JS-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=ECCD71">
-</div>
-
-<div align="left">
 <!-- Sass -->
 <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&color=25242A&logo=sass&logoColor=F1A0CC">
 <!-- Bootstrap -->
@@ -30,14 +27,14 @@ Self learning Front-End Development and Design Principles.
 
 <div align="left">
 <!-- Canva -->
-<img src="https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&color=25242A&logo=canva&logoColor=A9D6DC">
+<img src="https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&color=38373D&logo=canva&logoColor=A9D6DC">
 <!-- Squarespace -->
-<img src="https://img.shields.io/badge/squarespace-%2320232a.svg?style=for-the-badge&color=25242A&logo=squarespace&logoColor=#8C939D">
+<img src="https://img.shields.io/badge/squarespace-%2320232a.svg?style=for-the-badge&color=38373D&logo=squarespace&logoColor=#8C939D">
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 <!-- TWITTER -->
 <a href="https://twitter.com/bartbzd">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="40"></a>
