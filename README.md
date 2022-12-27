@@ -18,11 +18,19 @@ Self learning Front-End Development and Design Principles.
 <!-- JavaScript -->
 <img src="https://img.shields.io/badge/-JS-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=ECCD71">
 </div>
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40px">
-<img src="https://brandeps.com/icon-download/S/Squarespace-icon-vector-01.svg" alt="squarespace" width="40px">
+<!-- Sass -->
+<img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&color=25242A&logo=sass&logoColor=F1A0CC">
+<!-- Bootstrap -->
+<img src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&color=25242A&logo=bootstrap&logoColor=9C73EF">
+</div>
 
-
+<div align="center">
+<!-- Canva -->
+<img src="https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&color=25242A&logo=canva&logoColor=A9D6DC">
+<!-- Squarespace -->
+<img src="https://img.shields.io/badge/squarespace-%2320232a.svg?style=for-the-badge&color=25242A&logo=squarespace&logoColor=#8C939D">
 </div>
 
 ---
