@@ -22,7 +22,7 @@ Self learning Front-End Development and Design Principles.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40px">
 <img src="https://brandeps.com/icon-download/S/Squarespace-icon-vector-01.svg" alt="squarespace" width="40px">
 
-<img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=flat?color=red&logo=html5&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=flat&color=red&logo=html5&logoColor=FFFFFF">
 
 </div>
 
