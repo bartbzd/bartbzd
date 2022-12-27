@@ -4,7 +4,7 @@ Self learning Front-End Development and Design Principles.
 
 #### :heavy_minus_sign: **Current:**
 - The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
-
+- Design Best Practices - Various resources
 
 >#### **Archive:**
 >- 100 Days of Code - [Full Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
