@@ -1,20 +1,15 @@
 ### **Bart** :wave:
 Self learning Front-End Development and Design Principles.
 <br>
-<div style="background-color:red">
 
->#### :heavy_plus_sign: **Current:**
->- The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
+#### :heavy_plus_sign: **Current:**
+- The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
-<blockquote style="background-color:aqua;">
 
-#### :heavy_minus_sign: **Archive:**
-- 100 Days of Code - [Full Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
-- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+>#### :heavy_minus_sign: **Archive:**
+>- 100 Days of Code - [Full Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
+>- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-</blockquote>
-
-</div>
 ---
 
 <div align="left">
