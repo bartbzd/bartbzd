@@ -2,7 +2,7 @@
 ---
 
 ### **About**
-Self learning Front-End Development and Design Principles.
+Learning Front-End Development and Design Principles.
 <br>
 
 #### :heavy_minus_sign: **Current:**
