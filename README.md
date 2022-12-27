@@ -1,6 +1,4 @@
 ### **Bart** :wave:
-
-#### **About**
 Self learning Front-End/Design.
 <br>
 
