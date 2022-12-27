@@ -12,7 +12,6 @@ Self learning Front-End Development and Design Principles.
 >#### **Archive:**
 >- 100 Days of Code - [Full Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
 >- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
-
 ---
 
 <div align="left">
