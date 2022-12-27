@@ -1,14 +1,13 @@
-## **Hi, I'm Bart** :wave:
+### **Bart** :wave:
 
-### **About**
-
+#### **About**
 Self learning Front-End/Design.
 <br>
 
-### **Current:**
+#### **Current:**
 - The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
-### **Archive:**
+#### **Archive:**
 - 100 Days of Code Challenge - [My Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
 - The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 ---
