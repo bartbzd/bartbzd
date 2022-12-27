@@ -30,9 +30,9 @@ Learning Front-End Development and Design Principles.
 
 <div align="left">
 <!-- Canva -->
-<img src="https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&color=323137&logo=canva&logoColor=A9D6DC">
+<img src="https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&color=25242A&logo=canva&logoColor=A9D6DC">
 <!-- Squarespace -->
-<img src="https://img.shields.io/badge/squarespace-%2320232a.svg?style=for-the-badge&color=323137&logo=squarespace&logoColor=#8C939D">
+<img src="https://img.shields.io/badge/squarespace-%2320232a.svg?style=for-the-badge&color=25242A&logo=squarespace&logoColor=#8C939D">
 </div>
 
 <hr class="margins">
