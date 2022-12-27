@@ -12,7 +12,7 @@ Self learning Front-End Development and Design Principles.
 
 <div align="center">
 <!-- HTML -->
-<img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&color=25242A&logoWidth=40&logo=html5&logoColor=red">
+<img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&color=25242A&logoWidth=20&logo=html5&logoColor=red">
 <!-- CSS -->
 <img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&color=25242A&logo=css3&logoColor=blue">
 <!-- JavaScript -->
