@@ -2,11 +2,11 @@
 Self learning Front-End Development and Design Principles.
 <br>
 
-#### :heavy_plus_sign: **Current:**
+#### :heavy_minus_sign: **Current:**
 - The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
 
->#### :heavy_minus_sign: **Archive:**
+>#### :file_folder: **Archive:**
 >- 100 Days of Code - [Full Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
 >- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
