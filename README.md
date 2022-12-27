@@ -3,7 +3,7 @@ Self learning Front-End Development and Design Principles.
 <br>
 <div style="background-color:red">
 
->#### :heavy_plus_sign: **Current:**
+>#### :heavy_plus_sign: <span style="color:#58c1ca">**Current:**</span>
 >- The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
 >#### :heavy_minus_sign: **Archive:**
