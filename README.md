@@ -35,7 +35,7 @@ Self learning Front-End Development and Design Principles.
 <img src="https://img.shields.io/badge/squarespace-%2320232a.svg?style=for-the-badge&color=323137&logo=squarespace&logoColor=#8C939D">
 </div>
 
-<hr>
+<hr style="margin-bottom:0">
 <div align="left">
 
 #### **Contact**
