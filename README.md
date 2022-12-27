@@ -28,8 +28,6 @@ Self learning Front-End Development and Design Principles.
 </div>
 
 <div align="left">
-
-### **Contact**
 <!-- Canva -->
 <img src="https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&color=323137&logo=canva&logoColor=A9D6DC">
 <!-- Squarespace -->
@@ -39,6 +37,8 @@ Self learning Front-End Development and Design Principles.
 ---
 
 <div align="left">
+
+### **Contact**
 <!-- TWITTER -->
 <a href="https://twitter.com/bartbzd">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="40"></a>
