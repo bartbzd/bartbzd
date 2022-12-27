@@ -6,26 +6,24 @@ Self learning Front-End/Design.
 <br>
 
 ### **Current:**
-
 - The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
 ### **Archive:**
-
 - 100 Days of Code Challenge - [My Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
 - The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 ---
 
 <div align="center">
 <!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40px"/>
 <!-- CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="55px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40px"/> 
 <!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="55px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40px"/>
 </div>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="55px">
-<img src="https://brandeps.com/icon-download/S/Squarespace-icon-vector-01.svg" alt="squarespace" width="55px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40px">
+<img src="https://brandeps.com/icon-download/S/Squarespace-icon-vector-01.svg" alt="squarespace" width="40px">
 </div>
 
 ---
