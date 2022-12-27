@@ -6,7 +6,7 @@ Self learning Front-End Development and Design Principles.
 >#### :heavy_plus_sign: **Current:**
 >- The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
-<blockquote style="color: aqua">
+<blockquote style="background-color:aqua;">
 
 #### :heavy_minus_sign: **Archive:**
 - 100 Days of Code - [Full Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
