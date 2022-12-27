@@ -10,7 +10,7 @@ Self learning Front-End Development and Design Principles.
 >- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 ---
 
-<div align="center">
+<div align="left">
 <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=E55D51">
 <!-- CSS -->
@@ -19,14 +19,14 @@ Self learning Front-End Development and Design Principles.
 <img src="https://img.shields.io/badge/-JS-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=ECCD71">
 </div>
 
-<div align="center">
+<div align="left">
 <!-- Sass -->
 <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&color=25242A&logo=sass&logoColor=F1A0CC">
 <!-- Bootstrap -->
 <img src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&color=25242A&logo=bootstrap&logoColor=9C73EF">
 </div>
 
-<div align="center">
+<div align="left">
 <!-- Canva -->
 <img src="https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&color=25242A&logo=canva&logoColor=A9D6DC">
 <!-- Squarespace -->
