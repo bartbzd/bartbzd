@@ -12,9 +12,9 @@ Self learning Front-End Development and Design Principles.
 
 <div align="center">
 <!-- HTML -->
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=red">
 <!-- CSS -->
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&color=25242A&logo=css3&logoColor=blue">
 <!-- JavaScript -->
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
 </div>
@@ -22,7 +22,6 @@ Self learning Front-End Development and Design Principles.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40px">
 <img src="https://brandeps.com/icon-download/S/Squarespace-icon-vector-01.svg" alt="squarespace" width="40px">
 
-<img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=red">
 
 </div>
 
