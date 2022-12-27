@@ -1,4 +1,4 @@
-### **Bart. Front End Developer.**
+### **About**
 Self learning Front-End Development and Design Principles.
 <br>
 
@@ -13,6 +13,8 @@ Self learning Front-End Development and Design Principles.
 ---
 
 <div align="left">
+
+### **Skills**
 <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=E55D51">
 <!-- CSS -->
@@ -26,6 +28,8 @@ Self learning Front-End Development and Design Principles.
 </div>
 
 <div align="left">
+
+### **Contact**
 <!-- Canva -->
 <img src="https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&color=323137&logo=canva&logoColor=A9D6DC">
 <!-- Squarespace -->
