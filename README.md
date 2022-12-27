@@ -17,7 +17,7 @@ Self learning Front-End Development and Design Principles.
 
 <div align="left">
 
-### **Skills**
+## **Skills**
 <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=E55D51">
 <!-- CSS -->
@@ -38,9 +38,10 @@ Self learning Front-End Development and Design Principles.
 </div>
 
 ---
+
 <div align="left">
 
-### **Contact**
+## **Contact**
 <!-- TWITTER -->
 <a href="https://twitter.com/bartbzd">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="40"></a>
