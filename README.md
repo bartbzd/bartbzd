@@ -12,11 +12,11 @@ Self learning Front-End Development and Design Principles.
 
 <div align="center">
 <!-- HTML -->
-<img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=E55D51">
+<img src="https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=E55D51">
 <!-- CSS -->
-<img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&color=25242A&logo=css3&logoColor=4F89F5">
+<img src="https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&color=25242A&logo=css3&logoColor=4F89F5">
 <!-- JavaScript -->
-<img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=ECCD71">
+<img src="https://img.shields.io/badge/-JS--%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=ECCD71">
 </div>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40px">
@@ -25,8 +25,6 @@ Self learning Front-End Development and Design Principles.
 
 </div>
 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ---
 
 <div align="center">
