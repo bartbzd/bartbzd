@@ -1,12 +1,12 @@
 ### **Bart** :wave:
-Self learning Front-End Development/Design.
+Self learning and exploring Front-End Development/Design.
 <br>
 
 >#### **Current:**
 >- The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
 >#### **Archive:**
->- 100 Days of Code Challenge - [My Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
+>- 100 Days of Code - [My Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
 >- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 ---
 
