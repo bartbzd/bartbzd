@@ -1,12 +1,12 @@
 ### **Bart** :wave:
-Self learning and exploring Front-End Development/Design.
+Self learning Front-End Development and Design Principles.
 <br>
 
 >#### :heavy_plus_sign: **Current:**
 >- The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 
 >#### :heavy_minus_sign: **Archive:**
->- 100 Days of Code - [My Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
+>- 100 Days of Code - [Full Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
 >- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 ---
 
@@ -23,6 +23,8 @@ Self learning and exploring Front-End Development/Design.
 <img src="https://brandeps.com/icon-download/S/Squarespace-icon-vector-01.svg" alt="squarespace" width="40px">
 </div>
 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ---
 
 <div align="center">
