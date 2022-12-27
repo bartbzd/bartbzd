@@ -38,7 +38,6 @@ Self learning Front-End Development and Design Principles.
 </div>
 
 ---
-
 <div align="left">
 
 ### **Contact**
