@@ -49,9 +49,3 @@ Self learning Front-End Development and Design Principles.
  <!-- EMAIL -->
 <a href="mailto: bbart318@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" width="40"></a>
 </div>
-
-<style>
- .margins {
-    margin-bottom: 50px;
-  }
-</style>
