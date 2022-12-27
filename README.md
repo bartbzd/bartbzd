@@ -12,11 +12,11 @@ Self learning Front-End Development and Design Principles.
 
 <div align="center">
 <!-- HTML -->
-<img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=red">
+<img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=DE95A2">
 <!-- CSS -->
-<img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&color=25242A&logo=css3&logoColor=blue">
+<img src="https://img.shields.io/badge/CSS3-%2320232a.svg?style=for-the-badge&color=25242A&logo=css3&logoColor=7AB3DC">
 <!-- JavaScript -->
-<img src="https://img.shields.io/badge/JS-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=red">
+<img src="https://img.shields.io/badge/JS-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=F0D88D">
 </div>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40px">
