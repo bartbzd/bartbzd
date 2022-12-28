@@ -9,7 +9,6 @@ Learning Front-End Development and Design Principles.
 >### **Archive:**
 >- 100 Days of Code - [Full Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
 >- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
----
 <div align="left">
 
 ## **Skills**
@@ -34,7 +33,6 @@ Learning Front-End Development and Design Principles.
 <img src="https://img.shields.io/badge/squarespace-%2320232a.svg?style=for-the-badge&color=25242A&logo=squarespace&logoColor=#8C939D">
 </div>
 
-<hr class="margins">
 <div align="left">
 
 ## **Contact**
