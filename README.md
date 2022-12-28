@@ -24,11 +24,12 @@ Learning Front-End Development and Design Principles.
 <img src="https://img.shields.io/badge/-JS-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=ECCD71">
 <!-- Sass -->
 <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&color=25242A&logo=sass&logoColor=F1A0CC">
-<!-- Bootstrap -->
-<img src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&color=25242A&logo=bootstrap&logoColor=9C73EF">
+
 </div>
 
 <div align="left">
+<!-- Bootstrap -->
+<img src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&color=25242A&logo=bootstrap&logoColor=9C73EF">
 <!-- Canva -->
 <img src="https://img.shields.io/badge/canva-%2320232a.svg?style=for-the-badge&color=25242A&logo=canva&logoColor=A9D6DC">
 <!-- Squarespace -->
