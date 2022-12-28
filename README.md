@@ -1,6 +1,3 @@
-
----
-
 ### **About**
 Learning Front-End Development and Design Principles.
 <br>
