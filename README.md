@@ -1,18 +1,18 @@
-### **About**
+## **About**
 Learning Front-End Development and Design Principles.
 <br>
 
-#### :heavy_minus_sign: **Current:**
+### :heavy_minus_sign: **Current:**
 - The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 - Design Best Practices - Various resources
 
->#### **Archive:**
+>### **Archive:**
 >- 100 Days of Code - [Full Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
 >- The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 ---
 <div align="left">
 
-#### **Skills**
+## **Skills**
 
 <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=E55D51">
@@ -37,7 +37,7 @@ Learning Front-End Development and Design Principles.
 <hr class="margins">
 <div align="left">
 
-#### **Contact**
+## **Contact**
 <!-- TWITTER -->
 <a href="https://twitter.com/bartbzd">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" width="40"></a>
