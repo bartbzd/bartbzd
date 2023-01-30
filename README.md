@@ -17,7 +17,7 @@ Learning Front-End Development and Design Principles. <br>
 ## **Languages and Tools**
 
 <div>
-<div align="left">
+<div align="left" style="display: flex">
 <!-- LANGUAGES -->
 <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=E55D51">
@@ -27,7 +27,7 @@ Learning Front-End Development and Design Principles. <br>
 <img src="https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=ECCD71">
 </div>
 
-<div align="center">
+<div align="left">
 <!-- DEV TOOLS -->
 <!-- Sass -->
 <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&color=25242A&logo=sass&logoColor=F1A0CC">
