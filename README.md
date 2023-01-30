@@ -5,7 +5,7 @@ Learning Front-End Development and Design Principles. <br>
 ### :heavy_minus_sign: **Current:**
 
 - The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
-- Design, UI/UX - Various resources
+- UX/UI Design - Various resources
 
 > ### **Archive:**
 >
