@@ -16,6 +16,7 @@ Learning Front-End Development and Design Principles. <br>
 
 ## **Languages and Tools**
 
+<div>
 <div align="left">
 <!-- LANGUAGES -->
 <!-- HTML -->
@@ -43,7 +44,7 @@ Learning Front-End Development and Design Principles. <br>
 <!-- Squarespace -->
 <img src="https://img.shields.io/badge/squarespace-%2320232a.svg?style=for-the-badge&color=25242A&logo=squarespace&logoColor=#8C939D">
 </div>
-
+</div>
 ## **Contact**
 
 <!-- TWITTER -->
