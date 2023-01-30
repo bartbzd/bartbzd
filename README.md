@@ -27,7 +27,7 @@ Learning Front-End Development and Design Principles. <br>
 <img src="https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=ECCD71">
 </div>
 
-<div align="left">
+<div align="center">
 <!-- DEV TOOLS -->
 <!-- Sass -->
 <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&color=25242A&logo=sass&logoColor=F1A0CC">
@@ -45,6 +45,7 @@ Learning Front-End Development and Design Principles. <br>
 <img src="https://img.shields.io/badge/squarespace-%2320232a.svg?style=for-the-badge&color=25242A&logo=squarespace&logoColor=#8C939D">
 </div>
 </div>
+
 ## **Contact**
 
 <!-- TWITTER -->
