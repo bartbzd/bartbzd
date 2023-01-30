@@ -2,7 +2,7 @@
 
 Learning Front-End Development and Design Principles. <br>
 
-### :heavy_minus_sign: **Current:**
+### **Current:**
 
 - The Odin Project - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?)
 - UX/UI Design - Various resources
@@ -12,7 +12,7 @@ Learning Front-End Development and Design Principles. <br>
 > - 100 Days of Code - [Complete Log](https://github.com/bartbzd/100-days-of-code/blob/main/log.md)
 > - The Odin Project - [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-## **Languages and Tools**
+## **Languages & Tools**
 
 <div>
 <div align="left" style="display: flex">
