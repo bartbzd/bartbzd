@@ -21,14 +21,14 @@ Learning Front-End Development and Design Principles. <br>
 <img src="https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&color=25242A&logo=html5&logoColor=E55D51">
 <!-- CSS -->
 <img src="https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&color=25242A&logo=css3&logoColor=4F89F5">
+ <!-- Sass -->
+<img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&color=25242A&logo=sass&logoColor=F1A0CC">
 <!-- JavaScript -->
 <img src="https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&color=25242A&logo=javascript&logoColor=ECCD71">
 </div>
 
 <div align="left">
 <!-- DEV TOOLS -->
-<!-- Sass -->
-<img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&color=25242A&logo=sass&logoColor=F1A0CC">
 <!-- npm -->
 <img src="https://img.shields.io/badge/npm-%2320232a.svg?style=for-the-badge&color=25242A&logo=npm&logoColor=BB443E">
 <!-- Bootstrap -->
