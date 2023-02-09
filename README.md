@@ -33,7 +33,10 @@ Learning Front-End Development and Design Principles. <br>
 <img src="https://img.shields.io/badge/npm-%2320232a.svg?style=for-the-badge&color=25242A&logo=npm&logoColor=BB443E">
 <!-- Bootstrap -->
 <img src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&color=25242A&logo=bootstrap&logoColor=9C73EF">
+ <!-- Webpack -->
+<img src="https://img.shields.io/badge/webpack-%2320232a.svg?style=for-the-badge&color=25242A&logo=webpack&logoColor=3870B1">
 </div>
+
 
 <div align="left">
 <!-- OTHER-->
